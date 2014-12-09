@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3527DDF8-030B-4D35-90BE-654EA92DCBE9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UITableViewControllerChallengeSolution</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CCB72AB7AD8C9D45835D9AC1DFF0AA345C65DFE0</key>
+		<string>https://github.com/pyttroll/UITableViewControllerChallengeSolution.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UITableViewControllerChallengeSolution.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CCB72AB7AD8C9D45835D9AC1DFF0AA345C65DFE0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pyttroll/UITableViewControllerChallengeSolution.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CCB72AB7AD8C9D45835D9AC1DFF0AA345C65DFE0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CCB72AB7AD8C9D45835D9AC1DFF0AA345C65DFE0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UITableViewControllerChallengeSolution</string>
+		</dict>
+	</array>
+</dict>
+</plist>
